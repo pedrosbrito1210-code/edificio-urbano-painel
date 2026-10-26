@@ -1,0 +1,5 @@
+# Usado só pela versão de demonstração (portfólio), que roda com dados fictícios.
+# O painel real é publicado direto do computador do escritório pelo atualizar.py.
+[build]
+  command = "pip install -r requirements.txt && python gerar_painel.py --excel exemplo/dados_exemplo.xlsx"
+  publish = "site"

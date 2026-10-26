@@ -1,0 +1,6 @@
+{
+  "excel": "C:/Users/SEU_USUARIO/OneDrive/Pasta/Prestação de contas.xlsx",
+  "titulo": "Nome do prédio",
+  "netlify_site_id": "cole aqui o Site ID (Netlify > Site configuration > General)",
+  "netlify_token": "cole aqui o token (Netlify > User settings > Applications > Personal access tokens)"
+}

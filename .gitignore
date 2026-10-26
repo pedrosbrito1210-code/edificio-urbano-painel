@@ -1,0 +1,15 @@
+# Dados reais nunca entram no repositório
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+!exemplo/dados_exemplo.xlsx
+
+# Painel gerado (contém os números) e configuração com senha/token
+site/
+config_local.json
+.ultimo_publicado
+
+__pycache__/
+*.pyc
+~$*
